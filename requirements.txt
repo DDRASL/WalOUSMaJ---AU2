@@ -1,0 +1,3 @@
+rasterio==1.2
+numpy
+geopandas
